@@ -4,5 +4,5 @@ This tool provides a simple way to test different trading strategies on historic
 
 #### Caveat: This tool is written for Python for 3.4 and PyQT4. Please check for the PyQT5 branch for a more modern (and sligtly broken) version
 
-![alt text](https://imgur.com/pJIe4mC)
+![alt text](https://i.imgur.com/pJIe4mC.png)
 

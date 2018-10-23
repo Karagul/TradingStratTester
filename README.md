@@ -32,7 +32,7 @@ The performance of an index can be shown in different currencies by changing the
 
 
 ##### Bruteforcing
-You can find the optimal moving avarge strategy for an index using the button labelled as such. This is a bruteforce approach that will calculate the best moving average from 0 to a number of days specified by the user. It does this by calculating the best risdk-adjusted return. This function takes a long while to execute. Beware of the that "best" moving average is usually just an outlier and will in many cases not be applicable.
+You can find the optimal moving avarge strategy for an index using the button labelled as such. This is a bruteforce approach that will calculate the best moving average from 0 to a number of days specified by the user. It does this by calculating the best risk-adjusted return. This function takes a long while to execute. Beware of the that "best" moving average is usually just an outlier and will in many cases not be applicable.
 
 
 

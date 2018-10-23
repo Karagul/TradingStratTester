@@ -27,9 +27,8 @@ By changing currency, one can compare the performace of the same strategy in dif
 
 ##### Additional Functionality
 
-The performance of an index can be shown in different currencies by changing the currency and pressing **Plot**. This will return the performance of an index in another curerency compared to USD. By using the **Currency Performance** we can also plot the performace of other currencies and see the correlation between the perfroamce of an index in another curency and the prfoamce of said currency.
-
-![alt text](https://i.imgur.com/uqHGns8.png)
+The performance of an index can be shown in different currencies by changing the currency and pressing **Plot**. This will return the performance of an index in another curerency compared to USD. By using the **Currency Performance** we can also plot the performace of other currencies and see the correlation between the perfroamce of an index in another curency and the prfoamce of said currency. See the screenshot below.
+![alt text](https://i.imgur.com/uqHGnS8.png)
 
 
 ##### Bruteforcing

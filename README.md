@@ -12,6 +12,8 @@ This tool provides a simple way to test different trading strategies on historic
 
 This tools allows you to visualise different trading strategies. Start by choosing a curency (default is USD) and a the price time series of a financial instrument. In the screenshot above MSCI ACWI in USD is chosen. 
 
+The next step now is to 
+
 
 
 

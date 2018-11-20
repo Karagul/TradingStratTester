@@ -53,3 +53,4 @@ All strategies have a two day delay built in. What this means is that a trade wo
 ### Adding your own strategies
 
 Adding a new strategy to the tool is very simple. The modules.py contains the different trading strategies.
+TODO add better description

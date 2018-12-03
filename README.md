@@ -11,3 +11,4 @@ UPCOMING CHANGES:
 * The GUI will be redone to use a grid instead of fixed points. This will allow the user to set the window to any size. Will also fix the annoying issue where text don't fit on buttons...
 * Instead of a button for every strategy, a simple combo box will be used instead.
 * A report function with detailed data will be added.
+* Multithreaded approach, so that the GUI doesn't freeze all the time.
